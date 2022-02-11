@@ -27,7 +27,27 @@
 .App-link {
   color: #61dafb;
 }
+button {
+  background-color: darksalmon;
+  border: none;
+  padding: 8px 24px;
+  color: white;
+  font-size: 32px;
+  border: 2px solid white;
+  border-radius: 8px;
+  cursor: pointer;
+}
 
+button {
+  background-color: darksalmon;
+  border: none;
+  padding: 8px 24px;
+  color: white;
+  font-size: 32px;
+  border: 2px solid white;
+  border-radius: 8px;
+  cursor: pointer;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
